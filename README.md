@@ -15,14 +15,3 @@ I am a master student of computer science at Uppsala University in Sweden. I am 
 
 - **[ June. 2020]** **SemiFlow**: A deep learning framework with auto differentiation and auto shape inference [1.0](https://github.com/nanguoyu/SemiFlow) is released.
 
-
-
-
-## Recent Projects
-
-- **End2end model for hand gesture recognition**
-	We proposed an end to end deep model for hand gesture recognition and achieved 98.6% accuracy. 
-
- 
-
-  ![](https://cdn.nanguoyu.com/handGestureEnd2end.gif)
