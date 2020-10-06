@@ -7,7 +7,7 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 - Image segmentation
 - Statistical machine learning
 
-**Homepage**🏡: https://wangdongdong.wang/ **Email**📧: admin@nanguoyu.com **Blog**📚: https://www.nanguoyu.com **linkedin**📄:[linkedin]( https://www.linkedin.com/in/dong-wang-61857512b/)
+**Homepage**🏡: https://wangdongdong.wang/ **Email**📧: admin@nanguoyu.com **Blog**📚: https://www.nanguoyu.com **linkedin**📄:[linkedin]( www.linkedin.com/in/dongwangWilliam)
 
 
 
