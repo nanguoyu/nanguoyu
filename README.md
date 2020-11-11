@@ -5,7 +5,7 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 
 - Hand gesture recognition 
 - Image segmentation
-- Statistical machine learning
+- Multimodal Deep Learning
 
 [**linkedin**](https://www.linkedin.com/in/dongwangWilliam) 📄 [**Homepage**](https://wangdongdong.wang) 🏡 [**Email**](mailto:dongwang@wangdongdong.wang) 📧  [**Chinese Blog**](https://www.nanguoyu.com ) 📚
 
