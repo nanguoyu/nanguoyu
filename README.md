@@ -13,6 +13,7 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 
 
 ## News
+- **[ Nov. 2020]** A paper is submitted to ICME 2021 ! 
 
 - **[ June. 2020]** **SemiFlow**: A deep learning framework with auto differentiation and auto shape inference [1.0](https://github.com/nanguoyu/SemiFlow) is released.
 
