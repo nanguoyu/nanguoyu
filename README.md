@@ -1,4 +1,12 @@
 
+<!--
+Badges from 
+- https://github.com/alexandresanlim/Badges4-README.md-Profile
+- https://shields.io/
+inspired by 
+- https://github.com/zhouyangit/zhouyangit
+- https://github.com/journey-ad/journey-ad
+-->
 <div align="center"> <h1>Dong Wang (王栋)</h1></div> 
 
 I am a master student in computer science at Uppsala University in Sweden. I am interested in deep learning, computer vision and optimization. Recently, I focus on following research topics:
@@ -34,4 +42,4 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nanguoyu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-
+[](https://visitor-badge.laobi.icu/badge?page_id=nanguoyu-ad.readme)
