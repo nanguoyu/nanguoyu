@@ -42,4 +42,4 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nanguoyu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-[](https://visitor-badge.laobi.icu/badge?page_id=nanguoyu-ad.readme)
+![](https://visitor-badge.laobi.icu/badge?page_id=nanguoyu-ad.readme)
