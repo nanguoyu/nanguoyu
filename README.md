@@ -9,6 +9,9 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 - Gesture recognition 
 - Image segmentation
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongwangWilliam)
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:dongwang@wangdongdong.wang)
+
 
 [**linkedin**](https://www.linkedin.com/in/dongwangWilliam) 📄 [**Homepage**](https://wangdongdong.wang) 🏡 [**Email**](mailto:dongwang@wangdongdong.wang) 📧  [**Chinese Blog**](https://www.nanguoyu.com ) 📚
 
