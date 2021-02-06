@@ -27,9 +27,6 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 
 - Looking for a PhD position in machine learning and computer vision. 
 
-## Why nanguoyu?
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nanguoyu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-**nanguoyu/(南国羽)** is my Chinese pen name. You can regard it as my personal brand. I was thinking use a English-friendly pen name, but I found it was late :)
-- www.nanguoyu.com is my Chinese blog starting from 2013
-- nanguoyu.us is my Tool/funcational domain.
 
