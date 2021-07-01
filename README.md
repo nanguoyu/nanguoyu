@@ -9,12 +9,12 @@ inspired by
 -->
 <div align="center"> <h1>Dong Wang (王栋)</h1></div> 
 
-I am a master student in computer science at Uppsala University in Sweden. I am interested in deep learning, computer vision and optimization. Recently, I focus on following research topics:
+I am a master student of computer science at Uppsala University in Sweden. I am interested in deep learning, computer vision, internet-of-things and statistical machine learning . Recently, I focus on following research topics:
 
-- Vision transformer
-- Multi-modal
-- Anomaly detection
-- Gesture recognition 
+- Multimodal deep Learning
+- Federated learning
+- Internet of Things
+- Object detection
 - Image segmentation
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongwangWilliam)
@@ -29,6 +29,8 @@ I am a master student in computer science at Uppsala University in Sweden. I am 
 
 
 ## News
+
+- **[ June. 2021]** My **master's thesis** has been approved by Uppsala University. [pdf](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1569020&dswid=1667)
 
 - **[ Jan. 2021]** I start my Master's thesis at Ericsson. 
   
