@@ -9,7 +9,7 @@ inspired by
 -->
 <div align="center"> <h1>Dong Wang (王栋)</h1></div> 
 
-I am a master student of computer science at Uppsala University in Sweden. I am interested in deep learning, computer vision, internet-of-things and statistical machine learning . Recently, I focus on following research topics:
+I am a master student of computer science at Uppsala University in Sweden. My primary research interests are deep learning, computer vision, internet-of-things and statistical machine learning . Recently, I focus on following research topics:
 
 - Multimodal deep Learning
 - Federated learning
