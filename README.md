@@ -11,11 +11,12 @@ inspired by
 
 I am a master student of computer science at Uppsala University in Sweden. My primary research interests are deep learning, computer vision, internet-of-things and statistical machine learning . Recently, I focus on following research topics:
 
+- Real-time AI in edge
+- Low-latency vision
 - Multimodal deep Learning
 - Federated learning
 - Internet of Things
 - Object detection
-- Image segmentation
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongwangWilliam)
 [![](https://img.shields.io/badge/Email-25D366?style=for-the-badge&logo=email&logoColor=white)](mailto:dongwang@wangdongdong.wang)
@@ -30,6 +31,8 @@ I am a master student of computer science at Uppsala University in Sweden. My pr
 
 ## News
 
+- **[ Jan. 2022]** SemiFlow supports distributed learning and conversion to ONNX!
+
 - **[ June. 2021]** My **master's thesis** has been approved by Uppsala University. [pdf](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1569020&dswid=1667)
 
 - **[ Jan. 2021]** I start my Master's thesis at Ericsson. 
@@ -40,7 +43,7 @@ I am a master student of computer science at Uppsala University in Sweden. My pr
 
 ## Open to work
 
-- Looking for a PhD position in machine learning and computer vision. 
+- Looking for a PhD position in Edge AI. 
 
 ## Github status
 
