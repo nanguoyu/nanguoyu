@@ -43,7 +43,7 @@ I am a master student of computer science at Uppsala University in Sweden. My pr
 
 ## Open to work
 
-- Looking for a PhD position in Edge AI. 
+- Looking for a PhD position. 
 
 ## Github status
 
