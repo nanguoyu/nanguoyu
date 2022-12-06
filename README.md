@@ -20,17 +20,15 @@ My research aims to mitigate the gap between deep models and resource-limited de
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanguoyu)
 
 
-## Open to work
-
-- Looking for a PhD position. 
 
 ## News
+
+
+- **[ Nov. 2022]** I start my PhD at TU Graz, Austria.
 
 - **[ Jan. 2022]** SemiFlow supports distributed learning and conversion to ONNX!
 
 - **[ June. 2021]** My **master's thesis** has been approved by Uppsala University. [pdf](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1569020&dswid=1667)
-  
-- **[ Nov. 2020]** A paper is submitted to ICME 2021 ! 
 
 - **[ June. 2020]** **SemiFlow**: A deep learning framework with auto differentiation and auto shape inference [1.0](https://github.com/nanguoyu/SemiFlow) is released.
 
