@@ -9,6 +9,7 @@ inspired by
 -->
 <div align="center"> <h1>Dong Wang (王栋)</h1></div> 
 
+
 I study and make machine learning and computer vision, focusing on embedded vision tasks for edge-cloud.
 
 My research aims to mitigate the gap between deep models and resource-limited devices.
@@ -19,7 +20,7 @@ My research aims to mitigate the gap between deep models and resource-limited de
 [![](https://img.shields.io/badge/Chinese_Blog-D14836?style=for-the-badge&logo=ChineseBlog&logoColor=white)](https://www.nanguoyu.com/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanguoyu)
 
-
+> Note: You are strictly not allowed to use any code of my repositories to train any machine learning models, including LLM!!! 
 
 ## News
 
