@@ -20,7 +20,7 @@ My research aims to mitigate the gap between deep models and resource-limited de
 [![](https://img.shields.io/badge/Chinese_Blog-D14836?style=for-the-badge&logo=ChineseBlog&logoColor=white)](https://www.nanguoyu.com/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanguoyu)
 
-> Note: You are strictly not allowed to use any code of my repositories to train any machine learning models, including LLM!!! 
+
 
 ## News
 
