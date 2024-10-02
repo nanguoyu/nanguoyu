@@ -22,6 +22,9 @@ I am a PhD student supverised by [Olga Saukh](http://www.olgasaukh.com/) at [Emb
 </div>
 
 ## News
+- **[Aug. 2024]** I gave an oral peresntation about [Subspace-Configurable Networks](https://wangdongdong.wang/publication/scn/) at [CoLLAs'24](https://lifelong-ml.cc/) in Pisa, Italy🇮🇹. See pictures [here](https://x.com/DongWan06935465/status/1818391420820234523)📷
+
+- **[June. 2024]** I will attend [DENISE](https://www.fh-joanneum.at/veranstaltung/denise-summer-school/) Summer School.
 
 - **[ May. 2024]** I will present Subspace-Configurable Networks at the [PML4LRS workshop at ICLR'24](https://pml4dc.github.io/iclr2024/).
 
