@@ -22,6 +22,7 @@ I am a PhD student supverised by [Olga Saukh](http://www.olgasaukh.com/) at [Emb
 </div>
 
 ## News
+- **[ Jan. 2025]** 🚀 Our paper [Forget the Data and Fine-Tuning! Just Fold the Network to Compress](https://wangdongdong.wang/publication/modelfolding/) was accepted at [ICLR'25](https://iclr.cc/Conferences/2025) <a href="https://wangdongdong.wang/publication/modelfolding" target="_blank"><img src="https://img.shields.io/badge/paper_web-100000?style=flat&logo=markdown&logoColor=white" alt=""></a> <a href="https://github.com/nanguoyu/model-folding-universal" target="_blank"><img src="https://img.shields.io/badge/github-100000?style=flat&logo=github&logoColor=white" alt=""></a>
 - **[Aug. 2024]** I gave an oral peresntation about [Subspace-Configurable Networks](https://wangdongdong.wang/publication/scn/) at [CoLLAs'24](https://lifelong-ml.cc/) in Pisa, Italy🇮🇹. See pictures [here](https://x.com/DongWan06935465/status/1818391420820234523)📷
 
 - **[June. 2024]** I will attend [DENISE](https://www.fh-joanneum.at/veranstaltung/denise-summer-school/) Summer School.
