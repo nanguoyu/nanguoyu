@@ -10,7 +10,7 @@ inspired by
 <div align="center"> <h1>Dong Wang (王栋)</h1></div> 
 
 
-I am a PhD student supverised by [Olga Saukh](http://www.olgasaukh.com/) at [Embedded Learning and Sensing Systems (ELSS) Group  ](https://www.tugraz.at/en/arbeitsgruppen/iti-teams/embedded-learning-and-sensing-systems/team-contact), Institute for Technical Informatics, TU Graz, Austria. My research interests include on-device machine learing, embedded machine learning, deep learning, computer vision and Internet-of-things.
+I am a PhD student supverised by [Olga Saukh](http://www.olgasaukh.com/) at [Embedded Learning and Sensing Systems (ELSS) Group  ](https://www.tugraz.at/en/arbeitsgruppen/iti-teams/embedded-learning-and-sensing-systems/team-contact), Institute for Technical Informatics, TU Graz, Austria. My research interests include on-device machine learing, embedded machine learning, efficient machine learning, model sparsity, model compression.
 
 <div align="center">
 <a href="https://scholar.google.com/citations?user=ywFx8dgAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Goole_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt=""></a>
